@@ -16,13 +16,21 @@
     color: #111;
 }
 
+
+.logo-type{
+	color:#fff;
+	font-weight:bold;
+	font-size:2rem;
+}
+
 .product-action,.top-bar{
 	background:#009de0;
 }
 
 .product-action{
-	padding:10rem 0;
+	padding:10rem 0 20rem 0;
 	min-height: calc(50vh - 10rem);
+	background:#009de0 url(../img/bg-jumbotron.png) no-repeat center bottom;
 }
 
 .product-action h2{
