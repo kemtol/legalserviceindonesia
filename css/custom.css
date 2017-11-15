@@ -1,0 +1,71 @@
+.double-bounce1, .double-bounce2{
+	background-color: #009de0;
+}
+
+.btn:hover{
+	border-color: yellow;	
+}
+
+.btn-primary{
+	border: 2px solid yellow;
+	font-size:1.25rem;
+}
+
+.btn-primary.btn-filled {
+    background: yellow;
+    color: #111;
+}
+
+.product-action,.top-bar{
+	background:#009de0;
+}
+
+.product-action{
+	padding:10rem 0;
+	min-height: calc(50vh - 10rem);
+}
+
+.product-action h2{
+	margin-bottom:24px;
+}
+
+.menu li a{
+	color:#fff;
+	font-size:1.4rem;
+}
+.menu li a:hover{
+	color:yellow;
+}
+
+.btn-white:hover{
+	background: yellow;
+	color:#111;
+}
+
+.top-bar.nav-sticky {
+    background: rgba(0, 157, 224, 0.9);
+}
+
+.form-search-jasa .inputs-wrapper {
+    border: 2px solid rgba(255, 255, 255, 1);
+    border-radius: 25px;
+    margin-bottom: 24px;
+    color: white;
+    padding-left: 48px;
+}
+
+.form-search-jasa input{
+    background: none;
+    border: none;
+    box-shadow: none;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    padding: 16px;
+	outline: none;
+	font-size: 18px;
+}
+
+.form-search-jasa input::-webkit-input-placeholder {color: #eee;}
+.form-search-jasa input::-moz-placeholder {color:  #eee;}
+.form-search-jasa input:-ms-input-placeholder {color:  #eee;}
+.form-search-jasa input-moz-placeholder {color:  #eee;}
