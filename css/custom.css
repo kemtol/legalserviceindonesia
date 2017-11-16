@@ -1,5 +1,5 @@
 .double-bounce1, .double-bounce2{
-	background-color: #009de0;
+	background-color: /*#009de0*/#0048e0;
 }
 
 .btn:hover{
@@ -24,13 +24,15 @@
 }
 
 .product-action,.top-bar{
-	background:#009de0;
+	background:/*#009de0*/#0048e0;
 }
 
 .product-action{
 	padding:10rem 0 20rem 0;
 	min-height: calc(50vh - 10rem);
-	background:#009de0 url(../img/bg-jumbotron.png) no-repeat center bottom;
+	/*background:#009de0 url(../img/bg-jumbotron.png) no-repeat center bottom;*/
+	background:#0048e0 url(../img/bg-jumbotron-2.png) no-repeat center center;*/
+	background-size:cover;
 }
 
 .product-action h2{
