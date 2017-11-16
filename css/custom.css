@@ -43,7 +43,7 @@
 	background-size:cover;
 }
 .product-action::before{
-	content: "<div></div>";
+	content: '';
 	position:absolute;
 	width:100%;
 	height:100%;
