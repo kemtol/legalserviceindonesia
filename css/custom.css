@@ -42,6 +42,14 @@
 	background:#0048e0 url(../img/bg-jumbotron-2.jpeg) no-repeat center center;*/
 	background-size:cover;
 }
+.product-action::before{
+	content: "<div></div>";
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+}
 
 .product-action h2{
 	margin-bottom:24px;
