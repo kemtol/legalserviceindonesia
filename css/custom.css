@@ -1,3 +1,7 @@
+h1, h2, h3, h4, h5, h6{
+	font-family:georgia,serif;
+}
+
 .double-bounce1, .double-bounce2{
 	background-color: /*#009de0*/#0048e0;
 }
@@ -49,7 +53,7 @@
 	height:100%;
 	top:0;
 	left:0;
-	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABZJREFUeNpi2r9//38gYGAEESAAEGAAasgJOgzOKCoAAAAASUVORK5CYII=);
+	background:rgba(0,0,0,0.5)
 }
 
 .product-action h2{
