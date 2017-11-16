@@ -23,6 +23,14 @@
 	font-size:2rem;
 }
 
+.centered-logo .menu li{
+	margin-right:32px;
+}
+
+.centered-logo .menu li a{
+	padding-bottom: 32px;
+}
+
 .product-action,.top-bar{
 	background:/*#009de0*/#0048e0;
 }
