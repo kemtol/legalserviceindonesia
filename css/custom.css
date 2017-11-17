@@ -15,6 +15,12 @@ span.h2Alt{
 
 span.h1Alt{font-size:32px}
 
+
+section .h1Alt,
+section .h2Alt{
+	margin-bottom:4rem;
+}
+
 .double-bounce1, .double-bounce2{
 	background-color: /*#009de0*/#0048e0;
 }
@@ -132,7 +138,6 @@ section:nth-of-type(odd){
 .duplicatable-content span.h1Alt{margin-bottom:4rem}
 
 #apa--kata--mereka{background:#eee}
-#apa--kata--mereka .h2Alt{margin-bottom:4rem;}
 
 .testimonial-face{display:inline-block;width:100px;height:100px;border-radius:50%;overflow:hidden;margin:1rem 0}
 .testimonials-slider .author{font-size:12px}
