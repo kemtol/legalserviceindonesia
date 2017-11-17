@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6{
 	padding:10rem 0 20rem 0;
 	min-height: calc(50vh - 10rem);
 	/*background:#009de0 url(../img/bg-jumbotron.png) no-repeat center bottom;*/
-	background:#0048e0 url(../img/bg-jumbotron-2.jpeg) no-repeat center center;*/
+	background:#0048e0 url(../img/bg-jumbotron-2.jpeg) no-repeat center center;
 	background-size:cover;
 }
 .product-action::before{
