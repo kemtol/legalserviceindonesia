@@ -73,7 +73,7 @@ section .h2Alt{
 }
 
 .product-action{
-	padding:20rem 0 10rem 0;
+	padding:20rem 0 20rem 0;
 	min-height: calc(50vh - 20rem);
 	/*background:#009de0 url(../img/bg-jumbotron.png) no-repeat center bottom;*/
 	background:#0048e0 url(../img/bg-jumbotron-2.jpeg) no-repeat center center;
