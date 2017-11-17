@@ -20,7 +20,8 @@ section .h2Alt{
 	margin-bottom:4rem;
 }
 
-.double-bounce1, .double-bounce2{
+.double-bounce1,
+.double-bounce2{
 	background-color: /*#009de0*/#0048e0;
 }
 
@@ -66,7 +67,8 @@ section .h2Alt{
 	padding-bottom: 32px;
 }
 
-.product-action,.top-bar{
+.product-action,
+.top-bar{
 	background:/*#009de0*/#0048e0;
 }
 
@@ -86,7 +88,7 @@ section .h2Alt{
 	height:100%;
 	top:0;
 	left:0;
-	background:rgba(0,0,0,0.5)
+	background:rgba(0,0,0,0.5);
 }
 
 .product-action h2{
@@ -111,18 +113,19 @@ section .h2Alt{
 }
 
 .form-search-jasa .inputs-wrapper {
-    border: 2px solid rgba(255, 255, 255, 1);
-    border-radius: 25px;
-    margin-bottom: 24px;
-    color: white;
-    padding-left: 48px;
+	border: 2px solid rgba(255, 255, 255, 1);
+	border-radius: 25px;
+	margin-bottom: 24px;
+	color: white;
+	padding-left: 48px;
+	position:relative;
 }
 
 .form-search-jasa .inputs-wrapper .icon.icon-magnifying-glass{
-    position: absolute;
-    top: 12px;
-    left: 15px;
-    font-size: 32px;
+	position: absolute;
+	top: 12px;
+	left: 15px;
+	font-size: 32px;
 }
 
 .form-search-jasa input{
