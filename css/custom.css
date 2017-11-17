@@ -20,6 +20,10 @@ section .h2Alt{
 	margin-bottom:4rem;
 }
 
+section.duplicatable-content{
+	margin-bottom:80px;
+}
+
 .double-bounce1,
 .double-bounce2{
 	background-color: /*#009de0*/#0048e0;
