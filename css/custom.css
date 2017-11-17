@@ -15,7 +15,6 @@ span.h2Alt{
 
 span.h1Alt{font-size:32px}
 
-
 section .h1Alt,
 section .h2Alt{
 	margin-bottom:4rem;
@@ -23,6 +22,10 @@ section .h2Alt{
 
 .double-bounce1, .double-bounce2{
 	background-color: /*#009de0*/#0048e0;
+}
+
+.bg-secondary-1{
+	background:#333;
 }
 
 .btn:hover{
@@ -39,6 +42,14 @@ section .h2Alt{
     color: #111;
 }
 
+.btn-blue{
+	border-color:dodgerblue;
+	color:dodgerblue;
+}
+.btn-blue:hover{
+	background:dodgerblue;
+	color:white;
+}
 
 .logo-type{
 	color:#fff;
@@ -145,15 +156,14 @@ section:nth-of-type(odd){
 .pricing-2 .container{width:960px}
 .pricing-2 .pricing-table,
 .pricing-2 .pricing-table .price,
-.pricing-2 .pricing-table .features li{border-width:1px}
-	.pricing-2 .pricing-table .features li:nth-child(even){background:#eee}
+.pricing-2 .pricing-table .features li{border-width:1px;padding:2rem 0;}
+	.pricing-2 .pricing-table .features li:nth-child(even){background:#f6f6f6}
 	.pricing-2 .pricing-table .features li:first-child{background:#ddd}
 .pricing-2 .pricing-table.emphasis{background:dodgerblue}
 .pricing-2 .pricing-table.emphasis .features li,
 .pricing-2 .pricing-table.emphasis .price{background-color:transparent!important;border-color: #fff;}
 .pricing-2 .pricing-tables .col-md-3:first-child .pricing-table,
 .pricing-2 .pricing-tables .col-md-3:last-child .pricing-table{border-radius:0;border-width: 1px;}
-.pricing-2 .pricing-table .features li{padding:1.5rem 0;}
 .pricing-table .price .amount{font-size:42px}
 .flex-control-paging li a{background:rgba(30,144,255,0.5)}
 	.flex-control-paging li a.flex-active{background:rgba(30,144,255,1)}
