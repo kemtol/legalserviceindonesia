@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .top-bar.nav-sticky {
-    background: rgba(0, 157, 224, 0.9);
+    background: rgba(0, 72, 219, 0.9);
 }
 
 .form-search-jasa .inputs-wrapper {
@@ -100,3 +100,7 @@ h1, h2, h3, h4, h5, h6{
 .form-search-jasa input::-moz-placeholder {color:  #eee;}
 .form-search-jasa input:-ms-input-placeholder {color:  #eee;}
 .form-search-jasa input-moz-placeholder {color:  #eee;}
+
+.feature-icon-large i{
+	display:inline-block;
+}
