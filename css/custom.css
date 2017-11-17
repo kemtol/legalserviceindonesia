@@ -118,6 +118,13 @@ section .h2Alt{
     padding-left: 48px;
 }
 
+.form-search-jasa .inputs-wrapper .icon.icon-magnifying-glass{
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    font-size: 32px;
+}
+
 .form-search-jasa input{
     background: none;
     border: none;
