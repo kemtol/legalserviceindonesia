@@ -101,6 +101,11 @@ h1, h2, h3, h4, h5, h6{
 .form-search-jasa input:-ms-input-placeholder {color:  #eee;}
 .form-search-jasa input-moz-placeholder {color:  #eee;}
 
+
+.left-feature, .right-feature{
+	margin-top:2rem
+}
+
 .feature-icon-large i{
 	display:inline-block;
 	border: 2px solid dodgerblue;
