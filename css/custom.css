@@ -49,6 +49,7 @@ section .h2Alt{
 .btn-blue:hover{
 	background:dodgerblue;
 	color:white;
+	border-color:dodgerblue;
 }
 
 .logo-type{
