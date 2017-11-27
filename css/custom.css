@@ -207,7 +207,7 @@ section:nth-of-type(odd){
 
 #page .inputs-wrapper{
     border: 1px solid rgba(0, 0, 0, 0.5);
-    border-radius: 25px;
+    border-radius: 5px;
     margin-bottom: 24px;
     color: #111;
     position: relative;
@@ -221,5 +221,4 @@ section:nth-of-type(odd){
     width: 100%;
     padding: 16px;
     outline: none;
-    font-size: 18px;
 }
