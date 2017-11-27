@@ -68,8 +68,8 @@ is_page: true
           <div class="inputs-wrapper">
             <textarea class="form-message validate-required" name="message" placeholder="Your Message"></textarea>
           </div>
-          <div class="inputs-wrapper">
-            <input type="checkbox" name="konsultasi" value="konsultasi"> Saya menginginkan konsultasi by phone
+          <div class="cbox">
+            <input type="checkbox" name="konsultasi" value="konsultasi"> <label>Saya menginginkan konsultasi by phone</label>
           </div>
           <div class="subprice">
             <hr class="a1" />
