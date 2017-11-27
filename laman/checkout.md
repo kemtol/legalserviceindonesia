@@ -21,7 +21,7 @@ is_page: true
 <section id="checkout">	
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-8 col-md-offset-2">
         <form>
           <label>Saya sebagai: </label>
           <div class="inputs-wrapper">
@@ -68,7 +68,7 @@ is_page: true
           <a href="#" class="btn btn-primary btn-filled">Buat</a>
         </form>
       </div>
-      <div class="col-md-4">
+      <!--<div class="col-md-4">
         <table>
           <tr>
             <td>JASA LEGAL</td>
@@ -87,7 +87,7 @@ is_page: true
             <td>: Rp 450.000</td>
           </tr>
         </table>
-      </div>
+      </div>-->
     </div>
   </div>
 </section>  
