@@ -43,7 +43,10 @@ is_page: true
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <hr/>
+          <div class="subprice">
+            <hr class="a1" />
+            <span class="a2">Rp 198.000,-</span>
+          </div>
           <label>Pihak KEDUA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
@@ -64,6 +67,13 @@ is_page: true
           <label>Yang ingin anda tekankan: </label>
           <div class="inputs-wrapper">
             <textarea class="form-message validate-required" name="message" placeholder="Your Message"></textarea>
+          </div>
+          <div class="inputs-wrapper">
+            <input type="checkbox" name="konsultasi" value="konsultasi"> Saya menginginkan konsultasi by phone
+          </div>
+          <div class="subprice">
+            <hr class="a1" />
+            <span class="a2">Rp 50.000,-</span>
           </div>
           <a href="#" class="btn btn-primary btn-filled">Buat</a>
         </form>
