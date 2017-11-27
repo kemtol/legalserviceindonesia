@@ -21,7 +21,7 @@ is_page: true
 <section id="checkout">	
   <div class="container">
     <div class="row">
-      <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-10">
         <form>
           <label>Saya sebagai: </label>
           <div class="inputs-wrapper">
