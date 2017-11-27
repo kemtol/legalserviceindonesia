@@ -195,7 +195,7 @@ section:nth-of-type(odd){
 	background-position-y:bottom;
 }
 #page section.first-child > .container{
-	padding:16rem 0 8rem 0;
+	padding:16rem 15px 8rem 15px;
 	/*background :url(../img/surat-perjanjian-bg.png) no-repeat;
 	background-position-y:bottom;
 	background-position-x:right;*/
@@ -206,19 +206,20 @@ section:nth-of-type(odd){
 
 
 #page .inputs-wrapper{
-    border: 1px solid rgba(0, 0, 0, 0.5);
-    border-radius: 5px;
-    margin-bottom: 24px;
-    color: #111;
-    position: relative;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	border-radius: 5px;
+	margin-bottom: 24px;
+	color: #111;
+	position: relative;
+	max-width: 600px;
 }
 
 #page .inputs-wrapper input{
-    background: none;
-    border: none;
-    box-shadow: none;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 100%;
-    padding: 16px;
-    outline: none;
+	background: none;
+	border: none;
+	box-shadow: none;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 100%;
+	padding: 16px;
+	outline: none;
 }
