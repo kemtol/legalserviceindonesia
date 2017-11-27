@@ -30,7 +30,10 @@ is_page: true
               <option value="saab">Instansi / Badan Hukum</option>
             </select>
           </div>
-          <hr/>
+          <div class="subprice">
+            <hr class="a1" />
+            <span class="a2">Rp 198.000,-</span>
+          </div>
           <label>Pihak PERTAMA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
@@ -43,10 +46,7 @@ is_page: true
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <div class="subprice">
-            <hr class="a1" />
-            <span class="a2">Rp 198.000,-</span>
-          </div>
+          <hr/>
           <label>Pihak KEDUA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
