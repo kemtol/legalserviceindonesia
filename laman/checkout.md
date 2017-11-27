@@ -25,7 +25,10 @@ is_page: true
         <form>
           <label>Saya sebagai: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+            <select>
+              <option value="volvo">Perorangan</option>
+              <option value="saab">Instansi / Badan Hukum</option>
+            </select>
           </div>
           <hr/>
           <label>Pihak PERTAMA: </label>
