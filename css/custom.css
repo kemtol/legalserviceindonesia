@@ -233,6 +233,13 @@ section:nth-of-type(odd){
 	color: #333;
 }
 
+#page #checkout hr{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    border: 0;
+    border-top: 1px dashed #666;
+}
+
 #page #checkout .btn-primary.btn-filled {
     background: dodgerblue;
     color: #fff;
