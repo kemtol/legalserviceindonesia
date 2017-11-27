@@ -187,9 +187,15 @@ section:nth-of-type(odd){
 
 
 /* PAGE */
-#page section.first-child{
-	padding-top:15rem;
+#page section.first-child {
+	padding:0;
 	background:#f8f8f8;
+}
+#page section.first-child > .container{
+	padding:16rem 0 8rem 0;
+	backgorund :#eee url(../img/surat-perjanjian-bg.png) no-repeat;
+	background-position-y:bottom;
+	background-position-x:right;
 }
 	#page section.first-child h1{
 		margin-bottom:2rem;
