@@ -16,4 +16,4 @@ is_page: true
       </div>
     </row>
   </div>
-</div>  
+</section>  
