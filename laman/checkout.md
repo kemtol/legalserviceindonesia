@@ -23,32 +23,32 @@ is_page: true
     <div class="row">
       <div class="col-md-8">
         <form>
+          <label>Saya Sebagai: </label>
           <div class="inputs-wrapper">
-            <label>Saya Sebagai: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
+          <label>Pihak Pertama: </label>
           <div class="inputs-wrapper">
-            <label>Pihak Pertama: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
+          <label>KTP Pihak Pertama: </label>
           <div class="inputs-wrapper">
-            <label>KTP Pihak Pertama: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
+          <label>Alamat Pihak Pertama: </label>
           <div class="inputs-wrapper">
-            <label>Alamat Pihak Pertama: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
+          <label>Pihak Kedua: </label>
           <div class="inputs-wrapper">
-            <label>Pihak Kedua: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
+          <label>KTP Pihak Kedua: </label>
           <div class="inputs-wrapper">
-            <label>KTP Pihak Kedua: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
+          <label>Alamat Pihak Kedua: </label>
           <div class="inputs-wrapper">
-            <label>Alamat Pihak Kedua: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
           <a href="#" class="btn btn-primary btn-filled">Buat</a>
