@@ -12,8 +12,12 @@ is_page: true
         <h1>JASA LEGAL PEMBUATAN PERJANJIAN SEWA BANGUNAN</h1>
       </div>
       <div class="col-md-4">
-      
+        JASA LEGAL : Rp 198.0000
+        + EXPRESS : Rp 100.0000
+        + KONSULTASI: Rp 150.000
+        -----
+        TOTAL : Rp 450.000
       </div>
-    </row>
+    </div>
   </div>
 </section>  
