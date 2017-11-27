@@ -213,7 +213,7 @@ section:nth-of-type(odd){
     position: relative;
 }
 
-#page .input-wrapper input{
+#page .inputs-wrapper input{
     background: none;
     border: none;
     box-shadow: none;
