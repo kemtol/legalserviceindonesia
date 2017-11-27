@@ -18,7 +18,7 @@ is_page: true
   </div>
 </section>
       
-<section>	
+<section id="checkout">	
   <div class="container">
     <div class="row">
       <div class="col-md-8">
@@ -27,27 +27,37 @@ is_page: true
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <label>Pihak Pertama: </label>
+          <label>Pihak PERTAMA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <label>KTP Pihak Pertama: </label>
+          <label>KTP pihak PERTAMA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <label>Alamat Pihak Pertama: </label>
+          <label>Alamat pihak PERTAMA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <label>Pihak Kedua: </label>
+          <hr/>
+          <label>Pihak KEDUA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <label>KTP Pihak Kedua: </label>
+          <label>KTP pihak KEDUA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <label>Alamat Pihak Kedua: </label>
+          <label>Alamat pihak KEDUA: </label>
+          <div class="inputs-wrapper">
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <hr/>
+          <label>Situasi anda saat ini: </label>
+          <div class="inputs-wrapper">
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <label>Yang ingin anda tekankan: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
