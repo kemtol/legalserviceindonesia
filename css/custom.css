@@ -327,3 +327,11 @@ position: absolute;
 #page #checkout .btn-primary.btn-filled:hover {
 	opacity:1;
 }
+
+
+@media screen and (max-width: 1024px){
+	#page section.first-child {
+		padding:0;
+		background: #f8f8f8;
+	}
+}
