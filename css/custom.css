@@ -184,3 +184,13 @@ section:nth-of-type(odd){
 .pricing-table .price .amount{font-size:42px}
 .flex-control-paging li a{background:rgba(30,144,255,0.5)}
 	.flex-control-paging li a.flex-active{background:rgba(30,144,255,1)}
+
+
+/* PAGE */
+#page section.first-child{
+	padding-top:16rem;
+	background:#f8f8f8;
+}
+	#page section.first-child h1{
+		margin-bottom:2rem;
+	}
