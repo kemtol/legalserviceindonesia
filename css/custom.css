@@ -224,3 +224,19 @@ section:nth-of-type(odd){
 	padding: 16px;
 	outline: none;
 }
+
+#page #checkout .btn-primary.btn-filled {
+    background: dodgerblue;
+    color: #fff;
+    width: 600px;
+    border-color: dodgerblue;
+    padding: 1.75rem;
+    border-radius: 5px;
+    font-size: 16px;
+    letter-spacing: 0;
+    opacity: 0.75;
+}
+
+#page #checkout .btn-primary.btn-filled::hover {
+	opacity:1;
+}
