@@ -88,11 +88,15 @@ is_page: true
             <hr class="a1" />
             <span class="a2">+ Rp 50.000,-</span>
           </div>
-          <p>Dengan anda menekan tombol buat maka anda dengan ini setuju dengan termin dan kondisi layanan kami. Untuk dokumen proses cepat akan memakan waktu tidak lebih dari 3 hari, sedangkan proses normal memakan waktu 5 hingga 7 hari. Surat akan kami kirimkan melalui email atau alamat kirim pihak pertama</p>
+          <label>Alamat kirim dokumen jadi: </label>
+          <div class="inputs-wrapper">
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'email'">
+          </div>
           <div class="subprice">
             <hr class="a1" />
             <span class="a2">Total Rp 450.000,-</span>
           </div>
+          <p>Dengan anda menekan tombol buat maka anda dengan ini setuju dengan termin dan kondisi layanan kami. Untuk dokumen proses cepat akan memakan waktu tidak lebih dari 3 hari, sedangkan proses normal memakan waktu 5 hingga 7 hari. Surat akan kami kirimkan melalui email atau alamat kirim pihak pertama</p>
           <a href="#" class="btn btn-primary btn-filled">BUAT</a>
         </form>
       </div>
