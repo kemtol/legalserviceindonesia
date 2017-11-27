@@ -24,7 +24,31 @@ is_page: true
       <div class="col-md-8">
         <form>
           <div class="inputs-wrapper">
-            <label>Saya sebagai: </label>
+            <label>Saya Sebagai: </label><br/>
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <div class="inputs-wrapper">
+            <label>Pihak Pertama: </label><br/>
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <div class="inputs-wrapper">
+            <label>KTP Pihak Pertama: </label><br/>
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <div class="inputs-wrapper">
+            <label>Alamat Pihak Pertama: </label><br/>
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <div class="inputs-wrapper">
+            <label>Pihak Kedua: </label><br/>
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <div class="inputs-wrapper">
+            <label>KTP Pihak Kedua: </label><br/>
+            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+          </div>
+          <div class="inputs-wrapper">
+            <label>Alamat Pihak Kedua: </label><br/>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
           <a href="#" class="btn btn-primary btn-filled">Buat</a>
