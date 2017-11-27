@@ -239,6 +239,7 @@ section:nth-of-type(odd){
     margin: 0;
     position: relative;
     display: inline-block;
+	margin-right:2rem;
 }
 
 .cbox label {
@@ -248,7 +249,7 @@ section:nth-of-type(odd){
 	height: 30px;
 	top: 0;
   	left: 0;
-	background: #eee;
+	background: #fff;
 	border:1px solid #ddd;
 }
 
