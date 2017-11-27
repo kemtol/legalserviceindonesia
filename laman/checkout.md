@@ -33,11 +33,24 @@ is_page: true
         </form>
       </div>
       <div class="col-md-4">
-        JASA LEGAL : Rp 198.0000
-        + EXPRESS : Rp 100.0000
-        + KONSULTASI: Rp 150.000
-        -----
-        TOTAL : Rp 450.000
+        <table>
+          <tr>
+            <td>JASA LEGAL</td>
+            <td>: Rp 198.000</td>
+          </tr>
+          <tr>
+            <td>+ EKSPRESS</td>
+            <td>: Rp 100.000</td>
+          </tr>
+          <tr>
+            <td>+ KONSUKTASI</td>
+            <td>: Rp 100.000</td>
+          </tr>
+          <tr>
+            <td>TOTAL</td>
+            <td>: Rp 450.000</td>
+          </tr>
+        </table>
       </div>
     </div>
   </div>
