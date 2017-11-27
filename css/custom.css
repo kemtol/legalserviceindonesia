@@ -215,7 +215,8 @@ section:nth-of-type(odd){
 }
 
 #page .inputs-wrapper input,
-#page .inputs-wrapper textarea{
+#page .inputs-wrapper textarea,
+#page .inputs-wrapper select{
 	background: none;
 	border: none;
 	box-shadow: none;
@@ -223,6 +224,10 @@ section:nth-of-type(odd){
 	width: 100%;
 	padding: 16px;
 	outline: none;
+}
+
+#page .inputs-wrapper select{
+	height:56px;
 }
 
 #page #checkout .btn-primary.btn-filled {
