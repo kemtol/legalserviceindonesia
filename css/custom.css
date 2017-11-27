@@ -237,6 +237,6 @@ section:nth-of-type(odd){
     opacity: 0.75;
 }
 
-#page #checkout .btn-primary.btn-filled::hover {
+#page #checkout .btn-primary.btn-filled:hover {
 	opacity:1;
 }
