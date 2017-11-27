@@ -55,11 +55,11 @@ is_page: true
           <hr/>
           <label>Situasi anda saat ini: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+            <textarea class="form-message validate-required" name="message" placeholder="Your Message"></textarea>
           </div>
           <label>Yang ingin anda tekankan: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
+            <textarea class="form-message validate-required" name="message" placeholder="Your Message"></textarea>
           </div>
           <a href="#" class="btn btn-primary btn-filled">Buat</a>
         </form>
