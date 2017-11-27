@@ -23,12 +23,11 @@ is_page: true
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        <form class="form-search-jasa">
+        <form>
           <div class="inputs-wrapper">
-            <i class="icon icon-magnifying-glass"></i>
+            <label>Saya sebagai: </label>
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
-          <a href="#" class="btn btn-primary btn-white">Bantu saya</a>
           <a href="#" class="btn btn-primary btn-filled">Buat</a>
         </form>
       </div>
