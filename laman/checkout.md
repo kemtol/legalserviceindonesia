@@ -4,6 +4,7 @@ title: Pemesanan Dokumen Legal Anda
 permalink: /pembuatan-dokumen-legal.html
 is_page: true
 ---
+
 <section class="pure-text-centered first-child">
   <div class="container">
     <div class="row">
@@ -18,7 +19,7 @@ is_page: true
   </div>
 </section>
       
-<section class="duplicatable-content"	
+<section class="duplicatable-content">	
   <div class="container">
     <div class="row">
       <div class="col-md-8">
