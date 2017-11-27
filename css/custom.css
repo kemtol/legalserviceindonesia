@@ -193,7 +193,7 @@ section:nth-of-type(odd){
 }
 #page section.first-child > .container{
 	padding:16rem 0 8rem 0;
-	backgorund :#eee url(../img/surat-perjanjian-bg.png) no-repeat;
+	backgorund :url(../img/surat-perjanjian-bg.png) no-repeat;
 	background-position-y:bottom;
 	background-position-x:right;
 }
