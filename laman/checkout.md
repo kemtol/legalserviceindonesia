@@ -27,6 +27,7 @@ is_page: true
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
+          <hr/>
           <label>Pihak PERTAMA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
