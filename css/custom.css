@@ -189,9 +189,10 @@ section:nth-of-type(odd){
 /* PAGE */
 #page section.first-child {
 	padding:0;
-	background: #f8f8f8 url(../img/surat-perjanjian-bg.png) no-repeat;
+	background: #f8f8f8 url(../img/surat-perjanjian-bg-2.png) no-repeat;
 	background-position-x: 65vw;
-	background-position-y: 150px;
+	/*background-position-y: 150px;*/
+	background-position-y:0;
 }
 #page section.first-child > .container{
 	padding:16rem 0 8rem 0;
