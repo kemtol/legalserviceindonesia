@@ -69,7 +69,7 @@ is_page: true
             <textarea class="form-message validate-required" name="message" placeholder="Your Message"></textarea>
           </div>
           <div class="cbox">
-            <input type="checkbox" name="konsultasi" value="konsultasi"> <label>Saya menginginkan konsultasi by phone</label>
+            <input type="checkbox" value="1" id="checkboxFiveInput" name="" /> <label for="checkboxFiveInput"> </label >
           </div>
           <div class="subprice">
             <hr class="a1" />
