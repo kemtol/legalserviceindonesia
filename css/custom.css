@@ -188,7 +188,7 @@ section:nth-of-type(odd){
 
 /* PAGE */
 #page section.first-child{
-	padding-top:16rem;
+	padding-top:15rem;
 	background:#f8f8f8;
 }
 	#page section.first-child h1{
