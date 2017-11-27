@@ -278,7 +278,27 @@ section:nth-of-type(odd){
     margin-top: 4rem;
     margin-bottom: 4rem;
     border: 0;
-    border-top: 1px dashed #666;
+    border-top: 1px dashed #ccc;
+}
+
+#page #checkout .subprice{
+	position:relative;
+}
+
+#page #checkout .subprice .a1{
+	border-color:#666;
+}
+
+#page #checkout .subprice .a1{
+	position: absolute;
+	top: -2.125rem;
+	right: 0;
+	font-size: 3rem;
+	background: #fff;
+	font-family: georgia;
+	display: inline-block;
+	padding: 1rem 3rem;
+	color:#666;
 }
 
 #page #checkout .btn-primary.btn-filled {
