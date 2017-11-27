@@ -68,8 +68,21 @@ is_page: true
           <div class="inputs-wrapper">
             <textarea class="form-message validate-required" name="message" placeholder="Your Message"></textarea>
           </div>
-          <div class="cbox">
-            <input type="checkbox" value="1" id="checkboxFiveInput" name="" /> <label for="checkboxFiveInput"> </label >
+          <div>
+            <div class="cbox">
+              <input type="checkbox" value="1" id="checkboxFiveInput" name="" /> <label for="checkboxFiveInput"> </label >
+            </div>
+            <label> Saya ingin konsultasi lewat telephone.</label>
+          </div>
+          <div class="subprice">
+            <hr class="a1" />
+            <span class="a2">Rp 50.000,-</span>
+          </div>
+          <div>
+            <div class="cbox">
+              <input type="checkbox" value="1" id="checkboxFiveInput" name="" /> <label for="checkboxFiveInput"> </label >
+            </div>
+            <label> Saya ingin proses cepat.</label>
           </div>
           <div class="subprice">
             <hr class="a1" />
