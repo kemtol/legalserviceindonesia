@@ -90,7 +90,7 @@ is_page: true
           </div>
           <label>Alamat kirim dokumen jadi: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'email'">
+            <input class="validate-required" type="text" placeholder="Email" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'">
           </div>
           <div class="subprice">
             <hr class="a1" />
