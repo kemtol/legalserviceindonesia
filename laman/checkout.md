@@ -23,7 +23,7 @@ is_page: true
     <div class="row">
       <div class="col-md-8">
         <form>
-          <label>Saya Sebagai: </label>
+          <label>Saya sebagai: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Sewa rumah" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Sewa rumah'">
           </div>
