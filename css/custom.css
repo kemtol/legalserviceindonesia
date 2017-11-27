@@ -228,7 +228,7 @@ section:nth-of-type(odd){
 
 #page .inputs-wrapper select{
 	height:56px;
-	color: #eee;
+	color: #333;
 }
 
 #page #checkout .btn-primary.btn-filled {
