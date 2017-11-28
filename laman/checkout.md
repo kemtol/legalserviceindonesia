@@ -46,6 +46,12 @@ is_page: true
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Jl. Anyerlir No 31, Ciputat, DKI Jakarta" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Jl. Anyerlir No 31, Ciputat, DKI Jakarta'">
           </div>
+          <div>
+            <div class="cbox">
+              <input type="checkbox" value="1" id="cboxPihakBertransaksi" name="" /> <label for="cboxPihakBertransaksi"> </label >
+            </div>
+            <label> Pihak yang bertransaksi.</label>
+          </div>
           <hr/>
           <label>Pihak KEDUA: </label>
           <div class="inputs-wrapper">
@@ -70,7 +76,7 @@ is_page: true
           </div>
           <div>
             <div class="cbox">
-              <input type="checkbox" value="1" id="checkboxFiveInput" name="" /> <label for="checkboxFiveInput"> </label >
+              <input type="checkbox" value="1" id="cboxKonsultasi" name="" /> <label for="cboxKonsultasi"> </label >
             </div>
             <label> Saya ingin konsultasi lewat telephone.</label>
           </div>
@@ -80,7 +86,7 @@ is_page: true
           </div>
           <div>
             <div class="cbox">
-              <input type="checkbox" value="1" id="checkboxFiveInput" name="" /> <label for="checkboxFiveInput"> </label >
+              <input type="checkbox" value="1" id="cboxJadiCepat" name="" /> <label for="cboxJadiCepat"> </label >
             </div>
             <label> Saya ingin proses cepat.</label>
           </div>
