@@ -205,7 +205,11 @@ section:nth-of-type(odd){
 	}
 
 
-#page #checkout form{}
+#page #checkout form label{
+	font-size: 1.6rem;
+	margin-bottom: 1.4rem;
+	color: #666;
+}
 
 #page #checkout .inputs-wrapper{
 	border: 1px solid rgba(0, 0, 0, 0.5);
