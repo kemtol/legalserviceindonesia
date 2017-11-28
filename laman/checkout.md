@@ -50,7 +50,7 @@ is_page: true
             <div class="cbox">
               <input type="checkbox" value="1" id="cboxPihakBertransaksi" name="" /> <label for="cboxPihakBertransaksi"> </label >
             </div>
-            <label> Pihak yang bertransaksi.</label>
+            <label> Pihak yang bertransaksi. Misal: Sebagai Penjual atau Penyewa</label>
           </div>
           <hr/>
           <label>Pihak KEDUA: </label>
