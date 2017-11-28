@@ -48,7 +48,7 @@ is_page: true
           </div>
           <div>
             <div class="cbox">
-              <input type="checkbox" value="1" id="cboxPihakBertransaksi" name="" /> <label for="cboxPihakBertransaksi"> </label >
+              <input type="checkbox" value="1" id="cboxPihakBertransaksi" name="" checked /> <label for="cboxPihakBertransaksi"> </label >
             </div>
             <label> Pihak yang bertransaksi. Misal: Sebagai Penjual atau Penyewa</label>
           </div>
