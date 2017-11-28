@@ -36,34 +36,34 @@ is_page: true
           </div>
           <label>Pihak PERTAMA: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Mustafa Kemal / PT Maju Terus" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Mustafa Kemal / PT Maju Terus'">
+            <input class="validate-required" type="text" placeholder="Contoh: Mustafa Kemal / PT Maju Terus" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Contoh: Mustafa Kemal / PT Maju Terus'">
           </div>
           <label>No KTP pihak PERTAMA: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: 327091819860003" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: 327091819860003'">
+            <input class="validate-required" type="text" placeholder="Contoh: 327091819860003" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Contoh: 327091819860003'">
           </div>
           <label>Alamat pihak PERTAMA: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Jl. Anyerlir No 31, Ciputat, DKI Jakarta" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Jl. Anyerlir No 31, Ciputat, DKI Jakarta'">
+            <input class="validate-required" type="text" placeholder="Contoh: Jl. Anyerlir No 31, Ciputat, DKI Jakarta" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Contoh: Jl. Anyerlir No 31, Ciputat, DKI Jakarta'">
           </div>
           <div>
             <div class="cbox">
               <input type="checkbox" value="1" id="cboxPihakBertransaksi" name="" checked /> <label for="cboxPihakBertransaksi"> </label >
             </div>
-            <label> Pihak yang bertransaksi. Misal: Sebagai Penjual atau Penyewa</label>
+            <label> Pihak yang bertransaksi. Contoh: Sebagai Penjual atau Penyewa</label>
           </div>
           <hr/>
           <label>Pihak KEDUA: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Adi Sucipto / PT Untung Terus" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Adi Sucipto / PT Untung Terus'">
+            <input class="validate-required" type="text" placeholder="Contoh: Adi Sucipto / PT Untung Terus" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Contoh: Adi Sucipto / PT Untung Terus'">
           </div>
           <label>No KTP pihak KEDUA: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: 427091819860003" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: 427091819860003'">
+            <input class="validate-required" type="text" placeholder="Contoh: 427091819860003" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Contoh: 427091819860003'">
           </div>
           <label>Alamat pihak KEDUA: </label>
           <div class="inputs-wrapper">
-            <input class="validate-required" type="text" placeholder="Misal: Jl. Merpati B4 No 2 Komplek CB Bintaro, Tangerang Selatan." name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Jl. Merpati B4 No 2 Komplek CB Bintaro, Tangerang Selatan.'">
+            <input class="validate-required" type="text" placeholder="Contoh: Jl. Merpati B4 No 2 Komplek CB Bintaro, Tangerang Selatan." name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Contoh: Jl. Merpati B4 No 2 Komplek CB Bintaro, Tangerang Selatan.'">
           </div>
           <hr/>
           <label>Situasi anda saat ini: </label>
