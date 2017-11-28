@@ -38,7 +38,7 @@ is_page: true
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Mustafa Kemal / PT Maju Terus" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Mustafa Kemal / PT Maju Terus'">
           </div>
-          <label>KTP pihak PERTAMA: </label>
+          <label>No KTP pihak PERTAMA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: 327091819860003" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: 327091819860003'">
           </div>
@@ -51,7 +51,7 @@ is_page: true
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: Adi Sucipto / PT Untung Terus" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: Adi Sucipto / PT Untung Terus'">
           </div>
-          <label>KTP pihak KEDUA: </label>
+          <label>No KTP pihak KEDUA: </label>
           <div class="inputs-wrapper">
             <input class="validate-required" type="text" placeholder="Misal: 427091819860003" name="jasa" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Misal: 427091819860003'">
           </div>
