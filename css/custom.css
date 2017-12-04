@@ -190,6 +190,12 @@ section:nth-of-type(odd){
 	padding: 2rem 0;
 	border-bottom:1px solid #eee;
 }
+#blog-topic .container .row .text-center strong,
+#blog-topic .container .row .text-center a{
+	font-size:1.5rem;
+	font-weight:bold;
+	margin:0 1rem;
+}
 .blog-snippet-3:nth-child(even){
 	background:transparent;
 }
