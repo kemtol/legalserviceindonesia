@@ -185,6 +185,10 @@ section:nth-of-type(odd){
 .flex-control-paging li a{background:rgba(30,144,255,0.5)}
 	.flex-control-paging li a.flex-active{background:rgba(30,144,255,1)}
 
+/* BLOG */
+.blog-snippet-3:nth-child(even){
+	border-top:1px solid #eee;
+}
 
 /* PAGE */
 #page section.first-child {
