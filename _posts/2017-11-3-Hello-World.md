@@ -8,7 +8,7 @@ title: MAU MENIKAH DENGAN WNA? BUAT PRENUP!
 Pernikahan bukan hanya soal perjanjian hidup bersama antara dua manusia kepada Tuhan, tetapi masalah hukum negara tidak kalah penting untuk dipatuhi.
 
 Apabila ternyata Anda berjodoh dengan orang yang berbeda warga negara, tentunya ada banyak persyaratan atau hal khusus yang harus Anda penuhi sebelum maupun sesudah melangsungkan pernikahan.
-
+<!--more-->
 Bagi Anda yang akan menikah dengan WNA, sangat disarankan untuk membuat Prenuptial Agreement (prenup), dalam bahasa Indonesia disebut Perjanjian Pra-nikah.
 
 Prenup adalah perjanjian yang berisi ketentuan atau aturan yang disepakati dan ditandatangani oleh kedua belah pihak (secara bersamaan di hadapan notaris) sebelum melangsungkan pernikahan. Secara umum isi prenup adalah pemisahan harta antara suami dan istri, yang mana harta-harta yang dimiliki sebelum dan semasa dalam pernikahan tetap menjadi kepunyaan masing-masing pihak dan tidak akan dibagi dua jika terjadi perceraian.
