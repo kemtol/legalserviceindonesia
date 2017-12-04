@@ -188,6 +188,7 @@ section:nth-of-type(odd){
 /* BLOG */
 .blog-snippet-3:nth-child(even){
 	border-top:1px solid #eee;
+	background:transparent;
 }
 
 /* PAGE */
