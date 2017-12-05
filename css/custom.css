@@ -350,6 +350,10 @@ position: absolute;
 	opacity:1;
 }
 
+.footer-link{
+	display:inline-block;
+	margin:0 1rem;
+}
 
 @media screen and (max-width: 1024px){
 	#page section.first-child {
