@@ -9,6 +9,7 @@ is_page: true
       <div class="col-md-12">
         <h1><strong>Buat Legal Dokumen &amp; Surat Perjanjian Semudah 123</strong></h1>
       </div>     
+    </div>
   </div>
 </section>
   
