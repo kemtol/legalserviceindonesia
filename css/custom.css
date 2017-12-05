@@ -63,6 +63,11 @@ section.duplicatable-content{
 	font-size:2rem;
 }
 
+.logo-type:hover{
+	color:#fff;
+	opacity:0.9;
+}
+
 .centered-logo .menu li{
 	margin-right:32px;
 }
