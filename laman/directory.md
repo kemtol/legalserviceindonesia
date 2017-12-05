@@ -3,7 +3,7 @@ layout: page
 permalink: contoh-template-perjanjian.html
 is_page: true
 ---
-<section class="first-child">
+<section class="first-child text-center" style="background:#f8f8f8">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -13,7 +13,7 @@ is_page: true
   </div>
 </section>
   
-<div class="container">
+<div class="container text-center">
   <div class="row">
     <div class="col-md-12">
       <h2 class="section-headers">Browse by Alphabet:</h2>
