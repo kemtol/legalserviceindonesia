@@ -7,6 +7,7 @@ is_page: true
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+        <img src="https://cdn1.iconfinder.com/data/icons/modern-it-services-flat-icons/113/letter_business_letter_contract_agreement_treaty_pact_write-512.png" style="width: 100px;margin-bottom: 2rem;">
         <h1><strong>Buat Legal Dokumen &amp; Surat Perjanjian Semudah 123</strong></h1>
         <h2>Template Yang Kami Tawarkan</h2>
       </div>
