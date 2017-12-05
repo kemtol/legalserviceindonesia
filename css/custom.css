@@ -355,6 +355,14 @@ position: absolute;
 	opacity:1;
 }
 
+#page #kategori{
+	padding:8rem 0
+}
+
+#page #kategori .section-headers{
+	margin-bottom:6rem;
+}
+
 .footer-link > a{
 	display:inline-block;
 	margin:1rem 0.5rem;
