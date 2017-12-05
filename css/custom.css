@@ -350,7 +350,7 @@ position: absolute;
 	opacity:1;
 }
 
-.footer-link{
+.footer-link > a{
 	display:inline-block;
 	margin:0 1rem;
 }
