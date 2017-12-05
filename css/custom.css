@@ -189,6 +189,7 @@ section:nth-of-type(odd){
 #blog-topic{
 	padding: 2rem 0;
 	border-bottom:1px solid #eee;
+	background:#f9f9f9
 }
 #blog-topic .container .row .text-center strong,
 #blog-topic .container .row .text-center a{
