@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MAU MENIKAH DENGAN WNA? BUAT PRENUP!
-permalink: blog/prenup-menikah-wna.html
 ---
 
 <img src="http://www.desisachiko.com/files/2013/11/prenup-doc.jpg" class="img-responsive" />
