@@ -209,6 +209,15 @@ section:nth-of-type(odd){
 	border-top:1px solid #eee;
 }
 
+.blog-snippet-3:first-child{
+	padding-top:4rem;
+}
+
+.single-blog-post .date.alt-font{
+	margin-left:0;
+	margin-bottom:4rem;
+}
+
 /* PAGE */
 #page section.first-child {
 	padding:0;
