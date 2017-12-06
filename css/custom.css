@@ -209,7 +209,7 @@ section:nth-of-type(odd){
 	border-top:1px solid #eee;
 }
 
-.blog-snippet-3:nth-child(1){
+section.blog-list-3 .blog-snippet-3:first-child{
 	padding-top:4rem;
 }
 
